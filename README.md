@@ -4,6 +4,7 @@
 # application.properties
 
 Upload directory belongs to React Web Application directory access
+
 file.upload-dir=C:/test/react/web-admin/public/img/pic 
 this upload dir under react js directory /public/img/pic
 
